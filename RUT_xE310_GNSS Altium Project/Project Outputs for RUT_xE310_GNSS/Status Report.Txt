@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [RUT_xE310_Panel.PcbDoc]
+   Generated File[Pick Place for RUT_xE310_Panel.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:01:48 On 2020-03-17
